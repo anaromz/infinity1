@@ -34,7 +34,7 @@ function Home() {
       <div className="relative">
         {/* <section> */}
           <img
-            src="/back1.PNG"
+            src="/back1.jpg"
             className="w-full h-screen object-cover"
             alt="background"
           />
